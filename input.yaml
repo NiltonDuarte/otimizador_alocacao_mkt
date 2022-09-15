@@ -24,7 +24,7 @@ parceiros:
     dias_possiveis: 7
 
 mecanicas_elegiveis:
-  - parceiro: Magazine Luiza.com
-    mecanicas:
-      - DZ_4
-      - DZ_8
+#   - parceiro: Magazine Luiza.com
+#     mecanicas:
+#       - DZ_4
+#       - DZ_8
